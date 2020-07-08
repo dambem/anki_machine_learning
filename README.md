@@ -28,11 +28,11 @@ Replace MAC address in EXAMPLE.PY (car = Overdrive("F6:ED:77:8C:70:CA"))
 
 ## Overdrive Methods: 
 
-The necessary methods can be found in the following (github)[https://github.com/xerodotc/overdrive-python/blob/master/overdrive.py] 
+The necessary methods can be found in the following [github](https://github.com/xerodotc/overdrive-python/blob/master/overdrive.py)
 
 ## Running the code:
 
 Ensure that your Anki Overdrive is  turned on. run example.py, and the device should connect. The locationChangeCallBack will send a message twice for each curved piece (Once for entering, once for leaving), and three times for each straight piece (One for entering, one for entering the middle, one for leaving).  
 
 
-Credit to - https://github.com/xerodotc/overdrive-python/blob/master/overdrive.py
+Credit to [xerodotc](https://github.com/xerodotc/overdrive-python/blob/master/overdrive.py)
