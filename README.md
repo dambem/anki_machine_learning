@@ -3,7 +3,7 @@ Machine learning project using Anki Overdrive
 
 ## Requirements - 
 Python 3.4+ 
-(bluepy)[https://github.com/IanHarvey/bluepy]
+[bluepy](https://github.com/IanHarvey/bluepy)
 Root Permission
 
 As this code is expected to run on a Raspberry PI, bluepy is required for communication. The default raspberry PI bluetooth installation WILL NOT WORK
